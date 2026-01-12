@@ -1,0 +1,7 @@
+{
+  "name": "Serenity Path Hospital",
+  "description": "A modern, bilingual mental health and addiction hospital platform with dynamic content management and persona-driven AI chat support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
